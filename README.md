@@ -134,6 +134,9 @@ class AyeshaSaleh:
   <a href="mailto:official.ayesha10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://github.com/AyeshaSaleh?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
@@ -141,3 +144,7 @@ class AyeshaSaleh:
 <p align="center">
   ⭐ <em>"Transforming Data into Decisions"</em>
 </p>
+
+
+---
+
