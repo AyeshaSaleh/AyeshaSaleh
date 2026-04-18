@@ -20,9 +20,9 @@
 class AyeshaSaleh:
     def __init__(self):
         self.role = "Data Science Student @ Air University"
-        self.top_honors = ["AIRVIZ 2025 National Runner-up", "Buildables Top Fellow"]
-        self.stack = ["Python", "SQL", "Power BI", "R", "C#", "React"]
+        self.honors = ["AIRVIZ 2025 National Runner-up", "Buildables Top Fellow"]
         self.focus = "Scraping, Cleaning, and Visualizing complex business data"
+        self.mission = "Transforming messy data into beautiful, actionable stories."
 
-    def get_mission(self):
-        return "Transforming messy data into beautiful, actionable stories."
+    def get_stack(self):
+        return ["Python", "SQL", "Power BI", "R", "C#", "React"]
