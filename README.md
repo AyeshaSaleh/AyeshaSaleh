@@ -77,10 +77,10 @@ class AyeshaSaleh:
 
 ## 🏆 Buildables Fellowship (Top Fellow)
 
-* 🗄️ SQL Analytics Hub — Advanced T-SQL, procedures, window functions
-* 🏠 USA Real Estate EDA — 2.2M+ records (Pandas, Seaborn)
-* 🛒 Retail Dashboard — Executive KPI storytelling
-* 📈 Dynamic Excel Reporting — Automated dashboards
+*  SQL Analytics Hub — Advanced T-SQL, procedures, window functions
+*  USA Real Estate EDA — 2.2M+ records (Pandas, Seaborn)
+*  Retail Dashboard — Executive KPI storytelling
+*  Dynamic Excel Reporting — Automated dashboards
 
 ---
 
@@ -88,9 +88,9 @@ class AyeshaSaleh:
 
 **Elevvo Pathways**
 
-* 📊 Power BI Dashboard (US Superstore)
-* 👥 RFM Customer Segmentation (Python)
-* 🕸️ Web Scraping (APIs + BeautifulSoup)
+*  Power BI Dashboard (US Superstore)
+*  RFM Customer Segmentation (Python)
+*  Web Scraping (APIs + BeautifulSoup)
 
 ---
 
@@ -98,17 +98,17 @@ class AyeshaSaleh:
 
 ### 🎓 DataCamp Certifications
 
-* 📊 **Data Literacy Certification**
-* 🤖 **AI Fundamentals Certification**
-* 📈 **Data Analyst in Power BI**
-* 🐍 **Exploratory Data Analysis in Python**
+*  **Data Literacy Certification**
+*  **AI Fundamentals Certification**
+*  **Data Analyst in Power BI**
+*  **Exploratory Data Analysis in Python**
 
 ---
 
 ### 💼 Forage Job Simulations
 
-* ✈️ **British Airways — Data Science Job Simulation**
-* 🏦 **Commonwealth Bank — Introduction to Data Science Job Simulation**
+*  **British Airways — Data Science Job Simulation**
+*  **Commonwealth Bank — Introduction to Data Science Job Simulation**
 
 ---
 
