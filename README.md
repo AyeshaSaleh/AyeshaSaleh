@@ -58,4 +58,4 @@ I specialize in the full data journey: from automatically collecting data with P
 ---
 
 📫 **Let's Connect!**
-[LinkedIn](https://www.linkedin.com/in/ayesha-saleh-3088002b7/) | [Email](mailto:official.ayesha10@gmail.com) | [Portfolio Repositories](https://github.com/AyeshaSaleh?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/ayesha-s-8ab900318?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](mailto:official.ayesha10@gmail.com) | [Portfolio Repositories](https://github.com/AyeshaSaleh?tab=repositories)
