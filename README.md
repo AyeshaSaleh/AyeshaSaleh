@@ -1,47 +1,53 @@
 # 👋 Hi, I'm Ayesha Saleh! 
-### Data Scientist | Business Intelligence Specialist | Software Developer
+### Data Science Undergraduate @ Air University | Business Intelligence Specialist
 
-[cite_start]I am a Data Science undergraduate at **Air University**  [cite_start]and a national-level runner-up in data visualization (**AIRVIZ 2025**). [cite_start]My background includes a **Data Analysis Fellowship at Buildables**, where I was distinguished as "Top Fellow" for excellence in SQL, Python, and interactive dashboarding[cite: 360, 363, 364].
+I am a passionate Data Science Student and Developer dedicated to turning raw data into compelling narratives. Currently pursuing my **Bachelors in Data Science at Air University**, I was recognized as the **"Top Fellow"** during my Data Analysis Fellowship at **Buildables** and secured **2nd place nationally** in the **AIRVIZ 2025** Data Visualization competition.
 
-[cite_start]I specialize in transforming complex datasets into actionable storytelling through high-impact visualizations and predictive modeling[cite: 352, 353].
-
----
-
-## 🚀 Featured Systems & DSA
-* 🏔️ **[TOURISTA — Travel Management](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)**: A modular **React.js** and **C++** application using **BSTs and Stacks** to optimize tourism logistics. [cite_start]Features optimized client-side logic and high-density data filtering[cite: 381, 383, 384].
-* 📚 **[LMS-DBMS Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)**: A Library Management System featuring a **MySQL** relational schema and a **C# (WPF)** UI. [cite_start]Handles automated book issuance, fine tracking, and stored procedures[cite: 377, 378, 380].
+I specialize in the full data journey: from automatically collecting data with Python to cleaning it with SQL and building interactive stories in Power BI.
 
 ---
 
-## 📈 Economic Research & Predictive Analytics
-* 📉 **[Pakistan’s Economic Pulse (2016-2025)](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)**: Winner-caliber project analyzing 10 years of trade data. [cite_start]Utilized **SARIMAX modeling** in Python to forecast the "Heat Tax" impact on industrial growth[cite: 373, 374, 375].
-* 🏠 **[USA Real Estate EDA](https://github.com/AyeshaSaleh/Python-EDA-Project)**: Deep-dive preprocessing of 2.2M+ records. Implemented **MinMaxScaler**, **StandardScaler**, and frequency encoding to prepare data for machine learning.
+## 🌟 Featured Systems & Research
+* 🏔️ **[TOURISTA — Travel Management](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)**: A high-performance **React.js** & **C++** system using **BSTs and Stacks** to optimize logistics and user flows.
+* 📈 **[Pakistan’s Economic Pulse (2016-2025)](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)**: National award-winning research using **SARIMAX modeling** to analyze climate-driven economic shifts.
+* 📚 **[LMS-DBMS Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)**: A full-scale Library Management System built with **C# (WPF)** and **MySQL** featuring automated fine-tracking logic.
 
 ---
 
-## 🎓 Elevvo Pathways Internship (Data Track)
-* 📊 **[Task 1: Sales Dashboard](https://github.com/AyeshaSaleh/Task1-Elevvo)**: Interactive business health tracking using Advanced Excel and Slicers.
-* 🚢 **[Task 2: Titanic EDA](https://github.com/AyeshaSaleh/Task2-Elevvo)**: Statistical storytelling on passenger survival using Pandas and Seaborn.
-* 👥 **[Task 3: RFM Segmentation](https://github.com/AyeshaSaleh/Task3-Elevvo)**: Marketing analytics framework to categorize customer purchasing behavior.
-* 🖥️ **[Task 4: US Superstore BI](https://github.com/AyeshaSaleh/Task4-Elevvo)**: Enterprise Power BI dashboard featuring **DAX measures** and regional profitability maps.
-* 🕸️ **[Task 5: Web Scraping](https://github.com/AyeshaSaleh/Task5-Elevvo)**: Automated job market pipeline using Python and the RemoteOK API.
+## 🎓 Internship & Specialized Case Studies
+### **Elevvo Pathways Internship**
+* 🖥️ **[Power BI & DAX](https://github.com/AyeshaSaleh/Task4-Elevvo)**: Enterprise-level US Superstore Dashboard for profitability tracking.
+* 👥 **[RFM Analysis](https://github.com/AyeshaSaleh/Task3-Elevvo)**: Python-based customer behavioral segmentation.
+* 🕸️ **[Web Scraping](https://github.com/AyeshaSaleh/Task5-Elevvo)**: Live market data extraction using BeautifulSoup & APIs.
 
----
-
-## 🛠️ Business Intelligence & SQL Hub
-* 🛒 **[Retail Data Analysis](https://github.com/AyeshaSaleh/Retail-Data-Analysis)**: A multi-page storyboard dashboard focusing on executive KPIs and operational deep-dives.
-* [cite_start]📈 **[Excel Case Studies](https://github.com/AyeshaSaleh/Excel-Project)**: Predictive customer churn and data storytelling projects supported by **DataCamp certifications**[cite: 386, 390].
-* 🗄️ **[SQL Analytics Hub](https://github.com/AyeshaSaleh/SQL-Project)**: Advanced **T-SQL** development in **SSMS**, implementing joins, subqueries, and window functions to solve business logic.
+### **DataCamp Professional Case Studies**
+* 📉 **Analyzing Customer Churn**: Predictive Excel modeling to identify at-risk users.
+* 🌿 **Green Business Storytelling**: Data-driven insights into environmental business sustainability.
+* 🎓 **College Majors Analysis**: Statistical storytelling on educational ROI and career outcomes.
 
 ---
 
 ## ⚒️ Technical Toolbox
-* [cite_start]**Languages:** Python, SQL, R, DAX, C#[cite: 367].
-* [cite_start]**BI & Viz:** Power BI, Looker Studio, Excel, Matplotlib, Seaborn[cite: 353, 368, 369].
-* [cite_start]**Frameworks:** React.js, .NET (WPF), Scikit-Learn[cite: 368, 369].
-* [cite_start]**Data Engineering:** Web Scraping (BeautifulSoup, Selenium), ETL, MySQL, SSMS[cite: 354, 368, 370].
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Programming** | Python, SQL (T-SQL), R, DAX, C# |
+| **Data Science** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis |
+| **BI & Viz** | Power BI, Looker Studio, Microsoft Excel (Advanced), Microsoft Access |
+| **Engineering** | Web Scraping (BeautifulSoup, Selenium), ETL Processes, Data Modeling |
+| **Frameworks** | .NET (WPF), React.js, Crow Framework (C++) |
+| **Databases** | SQL Server (SSMS), MySQL, Relational Schema Design (1NF, 2NF, 3NF) |
+
+**Core Competencies:** Machine Learning, Dashboard Storytelling, KPI Architecture, Problem Solving, and Leadership.
+
+---
+
+## 📜 Professional Simulations & Certifications
+* **British Airways (Forage):** Data Science Job Simulation (Predictive Modeling).
+* **Commonwealth Bank (Forage):** Introduction to Data Science Job Simulation.
+* **DataCamp Certifications:** Power BI Data Analyst, AI Fundamentals, Python EDA, Data Literacy.
 
 ---
 
 📫 **Let's Connect!**
-[LinkedIn](https://www.linkedin.com/in/ayesha-saleh-3088002b7/) | [cite_start][Portfolio Repositories](https://github.com/AyeshaSaleh?tab=repositories) | official.ayesha10@gmail.com [cite: 349]
+[LinkedIn](https://www.linkedin.com/in/ayesha-saleh-3088002b7/) | [Email](mailto:official.ayesha10@gmail.com) | [Portfolio Repositories](https://github.com/AyeshaSaleh?tab=repositories)
