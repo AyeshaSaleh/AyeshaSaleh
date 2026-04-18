@@ -1,81 +1,141 @@
-<h1 align="center">🚀 Hi, I'm Ayesha Saleh!</h1>
+<h1 align="center">🚀 Hi, I'm Ayesha Saleh</h1>
+
 <p align="center">
-  <strong>Data Science Undergraduate @ Air University | Business Intelligence Specialist</strong>
+  <strong>Data Science Undergraduate @ Air University</strong><br>
+  <em>Business Intelligence Specialist • Data Storyteller</em>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Science+Undergrad+@+Air+University;National+Runner-up+@+AIRVIZ+2025;Buildables+Top+Fellow;Full-Stack+Data+Storyteller" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Undergrad;AIRVIZ+2025+National+Runner-up;Buildables+Top+Fellow;Turning+Data+into+Decisions" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Education-Air%20University-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Data%20Science-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-orange?style=for-the-badge" />
 </p>
 
 ---
 
-### 🖥️ [SYSTEM STATUS]
+## 🧠 About Me
+
 ```python
 class AyeshaSaleh:
     def __init__(self):
-        self.role = "Data Science Student @ Air University"
-        self.honors = ["AIRVIZ 2025 National Runner-up", "Buildables Top Fellow"]
-        self.focus = "Scraping, Cleaning, and Visualizing complex business data"
-        self.mission = "Transforming raw data into clear, beautiful, and actionable stories."
-
-    def get_stack(self):
-        return ["Python", "SQL", "Power BI", "R", "C#", "React"]
-
-## 🌟 Featured Systems & Research
-* 📈 **[Pakistan’s Economic Pulse (2016-2025)](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)**: A comprehensive study analyzing the interplay between **climate variability**, **industrial manufacturing (QIM)**, and **national trade**. 
-    * **Modeling:** Leveraged the **SARIMAX algorithm** to capture seasonal trends and the impact of temperature shifts (The "Heat Tax").
-    * **Visualization:** Developed an interactive **Power BI Dashboard** and a web-based app to host real-time predictive insights and market volatility forecasts.
-* 🏔️ **[TOURISTA — Travel Management](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)**: A high-performance **React.js** & **C++** system using **BSTs and Stacks** to optimize logistics and user flows.
-* 📚 **[LMS-DBMS Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)**: A full-scale Library Management System built with **C# (WPF)** and **MySQL** featuring automated fine-tracking logic.
+        self.role = "Data Science Undergraduate"
+        self.honors = [
+            "AIRVIZ 2025 National Runner-up",
+            "Buildables Top Fellow"
+        ]
+        self.focus = "Data Cleaning • Analytics • Visualization"
+        self.mission = "Turning complex data into clear, actionable insights"
+```
 
 ---
 
-## 🏆 Buildables Fellowship Projects (Top Fellow)
-* 🗄️ **[SQL Analytics Hub](https://github.com/AyeshaSaleh/SQL-Project)**: Advanced **T-SQL** development in **SSMS**, solving business problems through complex joins, window functions, and stored procedures.
-* 🏠 **[USA Real Estate EDA](https://github.com/AyeshaSaleh/Python-EDA-Project)**: Processing 2.2M+ records using **Python (Pandas/Seaborn)**. Features advanced data cleaning, scaling (MinMaxScaler), and frequency encoding.
-* 🛒 **[Retail Data Analysis](https://github.com/AyeshaSaleh/Retail-Data-Analysis)**: A multi-page storyboard dashboard focusing on executive KPIs and deep-dive operational performance.
-* 📈 **[Dynamic Excel Reporting](https://github.com/AyeshaSaleh/Excel-Project)**: Automated business KPI tracking and data cleaning using Power Query and advanced Pivot Tables.
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🎓 Elevvo Pathways Internship
-* 🖥️ **[Power BI & DAX](https://github.com/AyeshaSaleh/Task4-Elevvo)**: Enterprise-level US Superstore Dashboard for profitability tracking.
-* 👥 **[RFM Analysis](https://github.com/AyeshaSaleh/Task3-Elevvo)**: Python-based customer behavioral segmentation.
-* 🕸️ **[Web Scraping](https://github.com/AyeshaSaleh/Task5-Elevvo)**: Live market data extraction using BeautifulSoup & APIs.
+## 🌟 Featured Projects
+
+### 📈 Pakistan’s Economic Pulse (2016–2025)
+
+* Built with **SARIMAX forecasting**
+* Models climate impact ("Heat Tax") on trade & industry
+* Interactive **Power BI dashboards + web app**
+
+🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025
 
 ---
 
-## 📜 Specialized Case Studies & Certifications
-### **DataCamp Professional Case Studies**
-* 📉 **Analyzing Customer Churn**: Predictive Excel modeling to identify at-risk users.
-* 🌿 **Green Business Storytelling**: Data-driven insights into environmental business sustainability.
-* 🎓 **College Majors Analysis**: Statistical storytelling on educational ROI and career outcomes.
+### 🏔️ TOURISTA — Travel Management System
 
-### **Professional Simulations & Certs**
-* **British Airways (Forage):** Data Science Job Simulation (Predictive Modeling).
-* **Commonwealth Bank (Forage):** Introduction to Data Science Job Simulation.
-* **DataCamp Certifications:** Power BI Data Analyst, AI Fundamentals, Python EDA, Data Literacy.
+* **React.js + C++ backend**
+* Optimized with **BSTs & Stacks**
+* High-performance user flow system
+
+🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System
+
+---
+
+### 📚 LMS DBMS System
+
+* Built using **C# (WPF) + MySQL**
+* Automated fine tracking system
+* Full relational database design
+
+🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project
+
+---
+
+## 🏆 Buildables Fellowship (Top Fellow)
+
+* 🗄️ SQL Analytics Hub — Advanced T-SQL, procedures, window functions
+* 🏠 USA Real Estate EDA — 2.2M+ records (Pandas, Seaborn)
+* 🛒 Retail Dashboard — Executive KPI storytelling
+* 📈 Dynamic Excel Reporting — Automated dashboards
+
+---
+
+## 🎓 Internship Experience
+
+**Elevvo Pathways**
+
+* 📊 Power BI Dashboard (US Superstore)
+* 👥 RFM Customer Segmentation (Python)
+* 🕸️ Web Scraping (APIs + BeautifulSoup)
 
 ---
 
 ## ⚒️ Technical Toolbox
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming** | Python, SQL (T-SQL), R, DAX, C# |
-| **Data Science** | Scikit-Learn, Pandas, Matplotlib, Seaborn, Statistical Analysis |
-| **BI & Viz** | Power BI, Looker Studio, Microsoft Excel (Advanced), Microsoft Access |
-| **Engineering** | Web Scraping (BeautifulSoup, Selenium), Data Cleaning, Data Modeling |
-| **Frameworks** | .NET (WPF), React.js, Crow Framework (C++) |
-| **Databases** | SQL Server (SSMS), MySQL, Relational Schema Design (1NF, 2NF, 3NF) |
+| Domain          | Tools                                      |
+| --------------- | ------------------------------------------ |
+| 💻 Programming  | Python, SQL, R, C#, DAX                    |
+| 📊 Data Science | Pandas, Scikit-Learn, Matplotlib, Seaborn  |
+| 📈 BI Tools     | Power BI, Excel (Advanced), Looker Studio  |
+| 🛠️ Engineering | Web Scraping, Data Cleaning, Modeling      |
+| 🌐 Frameworks   | React.js, .NET (WPF), C++ (Crow)           |
+| 🗄️ Databases   | MySQL, SQL Server, Normalization (1NF–3NF) |
 
 ---
 
-📫 **Let's Connect!**
-[LinkedIn](https://www.linkedin.com/in/ayesha-s-8ab900318?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Email](mailto:official.ayesha10@gmail.com) | [Portfolio Repositories](https://github.com/AyeshaSaleh?tab=repositories)
+## 📜 Certifications & Case Studies
+
+* 📉 Customer Churn Analysis (Predictive Modeling)
+* 🌿 Green Business Data Storytelling
+* 🎓 College ROI Statistical Analysis
+
+**Simulations:**
+
+* British Airways — Data Science Simulation
+* Commonwealth Bank — Data Science Simulation
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-s-8ab900318">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayesha-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:official.ayesha10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <em>"Transforming Data into Decisions"</em>
+</p>
