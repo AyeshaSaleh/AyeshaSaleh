@@ -53,8 +53,7 @@ class AyeshaSaleh:
 * Built with **SARIMAX forecasting**
 * Models climate impact ("Heat Tax") on trade & industry
 * Interactive **Power BI dashboards + web app**
-
-🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025
+  🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025
 
 ---
 
@@ -63,8 +62,7 @@ class AyeshaSaleh:
 * **React.js + C++ backend**
 * Optimized with **BSTs & Stacks**
 * High-performance user flow system
-
-🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System
+  🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System
 
 ---
 
@@ -73,8 +71,7 @@ class AyeshaSaleh:
 * Built using **C# (WPF) + MySQL**
 * Automated fine tracking system
 * Full relational database design
-
-🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project
+  🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project
 
 ---
 
@@ -97,6 +94,24 @@ class AyeshaSaleh:
 
 ---
 
+## 📜 Certifications
+
+### 🎓 DataCamp Certifications
+
+* 📊 **Data Literacy Certification**
+* 🤖 **AI Fundamentals Certification**
+* 📈 **Data Analyst in Power BI**
+* 🐍 **Exploratory Data Analysis in Python**
+
+---
+
+### 💼 Forage Job Simulations
+
+* ✈️ **British Airways — Data Science Job Simulation**
+* 🏦 **Commonwealth Bank — Introduction to Data Science Job Simulation**
+
+---
+
 ## ⚒️ Technical Toolbox
 
 | Domain          | Tools                                      |
@@ -107,19 +122,6 @@ class AyeshaSaleh:
 | 🛠️ Engineering | Web Scraping, Data Cleaning, Modeling      |
 | 🌐 Frameworks   | React.js, .NET (WPF), C++ (Crow)           |
 | 🗄️ Databases   | MySQL, SQL Server, Normalization (1NF–3NF) |
-
----
-
-## 📜 Certifications & Case Studies
-
-* 📉 Customer Churn Analysis (Predictive Modeling)
-* 🌿 Green Business Data Storytelling
-* 🎓 College ROI Statistical Analysis
-
-**Simulations:**
-
-* British Airways — Data Science Simulation
-* Commonwealth Bank — Data Science Simulation
 
 ---
 
