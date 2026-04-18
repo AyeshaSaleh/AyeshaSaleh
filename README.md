@@ -8,8 +8,10 @@ I specialize in the full data journey: from automatically collecting data with P
 ---
 
 ## 🌟 Featured Systems & Research
+* 📈 **[Pakistan’s Economic Pulse (2016-2025)](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)**: A comprehensive study analyzing the interplay between **climate variability**, **industrial manufacturing (QIM)**, and **national trade**. 
+    * **Modeling:** Leveraged the **SARIMAX algorithm** to capture seasonal trends and the impact of temperature shifts (The "Heat Tax").
+    * **Visualization:** Developed an interactive **Power BI Dashboard** and a web-based app to host real-time predictive insights and market volatility forecasts.
 * 🏔️ **[TOURISTA — Travel Management](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)**: A high-performance **React.js** & **C++** system using **BSTs and Stacks** to optimize logistics and user flows.
-* 📈 **[Pakistan’s Economic Pulse (2016-2025)](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)**: National award-winning research using **SARIMAX modeling** to analyze climate-driven economic shifts.
 * 📚 **[LMS-DBMS Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)**: A full-scale Library Management System built with **C# (WPF)** and **MySQL** featuring automated fine-tracking logic.
 
 ---
