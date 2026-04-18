@@ -14,16 +14,31 @@ I specialize in the full data journey: from automatically collecting data with P
 
 ---
 
-## 🎓 Internship & Specialized Case Studies
-### **Elevvo Pathways Internship**
+## 🏆 Buildables Fellowship Projects (Top Fellow)
+* 🗄️ **[SQL Analytics Hub](https://github.com/AyeshaSaleh/SQL-Project)**: Advanced **T-SQL** development in **SSMS**, solving business problems through complex joins, window functions, and stored procedures.
+* 🏠 **[USA Real Estate EDA](https://github.com/AyeshaSaleh/Python-EDA-Project)**: Processing 2.2M+ records using **Python (Pandas/Seaborn)**. Features advanced data cleaning, scaling (MinMaxScaler), and frequency encoding.
+* 🛒 **[Retail Data Analysis](https://github.com/AyeshaSaleh/Retail-Data-Analysis)**: A multi-page storyboard dashboard focusing on executive KPIs and deep-dive operational performance.
+* 📈 **[Dynamic Excel Reporting](https://github.com/AyeshaSaleh/Excel-Project)**: Automated business KPI tracking and data cleaning using Power Query and advanced Pivot Tables.
+
+---
+
+## 🎓 Elevvo Pathways Internship
 * 🖥️ **[Power BI & DAX](https://github.com/AyeshaSaleh/Task4-Elevvo)**: Enterprise-level US Superstore Dashboard for profitability tracking.
 * 👥 **[RFM Analysis](https://github.com/AyeshaSaleh/Task3-Elevvo)**: Python-based customer behavioral segmentation.
 * 🕸️ **[Web Scraping](https://github.com/AyeshaSaleh/Task5-Elevvo)**: Live market data extraction using BeautifulSoup & APIs.
 
+---
+
+## 📜 Specialized Case Studies & Certifications
 ### **DataCamp Professional Case Studies**
 * 📉 **Analyzing Customer Churn**: Predictive Excel modeling to identify at-risk users.
 * 🌿 **Green Business Storytelling**: Data-driven insights into environmental business sustainability.
 * 🎓 **College Majors Analysis**: Statistical storytelling on educational ROI and career outcomes.
+
+### **Professional Simulations & Certs**
+* **British Airways (Forage):** Data Science Job Simulation (Predictive Modeling).
+* **Commonwealth Bank (Forage):** Introduction to Data Science Job Simulation.
+* **DataCamp Certifications:** Power BI Data Analyst, AI Fundamentals, Python EDA, Data Literacy.
 
 ---
 
@@ -32,20 +47,11 @@ I specialize in the full data journey: from automatically collecting data with P
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Programming** | Python, SQL (T-SQL), R, DAX, C# |
-| **Data Science** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis |
+| **Data Science** | Scikit-Learn, Pandas, Matplotlib, Seaborn, Statistical Analysis |
 | **BI & Viz** | Power BI, Looker Studio, Microsoft Excel (Advanced), Microsoft Access |
-| **Engineering** | Web Scraping (BeautifulSoup, Selenium), ETL Processes, Data Modeling |
+| **Engineering** | Web Scraping (BeautifulSoup, Selenium), Data Cleaning, Data Modeling |
 | **Frameworks** | .NET (WPF), React.js, Crow Framework (C++) |
 | **Databases** | SQL Server (SSMS), MySQL, Relational Schema Design (1NF, 2NF, 3NF) |
-
-**Core Competencies:** Machine Learning, Dashboard Storytelling, KPI Architecture, Problem Solving, and Leadership.
-
----
-
-## 📜 Professional Simulations & Certifications
-* **British Airways (Forage):** Data Science Job Simulation (Predictive Modeling).
-* **Commonwealth Bank (Forage):** Introduction to Data Science Job Simulation.
-* **DataCamp Certifications:** Power BI Data Analyst, AI Fundamentals, Python EDA, Data Literacy.
 
 ---
 
