@@ -27,7 +27,7 @@ class AyeshaSaleh:
             "AIRVIZ 2025 National Runner-up",
             "Buildables Top Fellow"
         ]
-        self.focus = "Data Cleaning • Analytics • Visualization"
+        self.focus = " AI/ML • Data Manipulation • Analytics • Visualization"
         self.mission = "Turning complex data into clear, actionable insights"
 ```
 
