@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I am a **Data Science undergraduate** at **Air University** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
+I am a **Data Science undergraduate** at **Air University, Islamabad** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
 
 ---
 
@@ -88,13 +88,13 @@ I am a **Data Science undergraduate** at **Air University** and a **Business Int
 
 ## 🏆 Experience
 
-### Buildables Fellowship — Top Fellow
+### Buildables Fellowship - Top Fellow
 - Developed advanced SQL analytics solutions  
 - Implemented stored procedures and window functions  
 - Built executive dashboards  
 - Automated reporting workflows
 
-### Elevvo Pathways — Data & BI Intern
+### Elevvo Pathways - Data & BI Intern
 - Developed Power BI dashboards  
 - Performed RFM customer segmentation  
 - Implemented API-based data scraping  
@@ -112,9 +112,9 @@ I am a **Data Science undergraduate** at **Air University** and a **Business Int
 
 ### Forage
 
-- British Airways — Data Science Job Simulation  
-- Commonwealth Bank — Introduction to Data Science Job Simulation  
-- Tata — Data	Visualisation:	Empowering	Business with	Effective	Insights
+- British Airways - Data Science Job Simulation  
+- Commonwealth Bank - Introduction to Data Science Job Simulation  
+- Tata - Data	Visualisation:	Empowering	Business with	Effective	Insights
 ---
 
 ## 🌐 Connect With Me
