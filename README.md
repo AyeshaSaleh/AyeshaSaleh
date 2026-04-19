@@ -94,7 +94,7 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 - Built executive dashboards  
 - Automated reporting workflows
 
-### Elevvo Pathways - Data & BI Intern
+### Elevvo Pathways - Data Analytics Intern
 - Developed Power BI dashboards  
 - Performed RFM customer segmentation  
 - Implemented API-based data scraping  
