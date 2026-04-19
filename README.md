@@ -109,8 +109,8 @@ through predictive modeling, dashboard design, and statistical analysis.
 ### Forage
 
 - British Airways — Data Science Job Simulation  
-- Commonwealth Bank — Introduction to Data Science  
-
+- Commonwealth Bank — Introduction to Data Science Job Simulation  
+- Tata — Data	Visualisation:	Empowering	Business with	Effective	Insights
 ---
 
 ## 🤝 Let's Connect
