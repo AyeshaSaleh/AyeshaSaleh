@@ -282,16 +282,11 @@ class AyeshaSaleh:
 
 ---
 
-
-
 <p align="center">
 
   ⭐ <em>"Transforming Data into Decisions"</em>
 
 </p>
 
-
-
-
-
 ---
+
