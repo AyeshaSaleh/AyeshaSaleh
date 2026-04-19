@@ -1,89 +1,102 @@
-<h1 align="center">👋 Hi, I am Ayesha Saleh</h1>
+<h1 align="center">👋 Hi, I'm Ayesha Saleh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Science+Undergraduate;AI+%7C+Machine+Learning+%7C+Business+Intelligence;AIRVIZ+2025+National+Runner-up;Buildables+Top+Fellow;Turning+Data+into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=DATA+SCIENTIST+%7C+BI+SPECIALIST;AI+%7C+Machine+Learning+%7C+Analytics;AIRVIZ+2025+National+Runner-up;Buildables+Top+Fellow;Turning+Data+Into+Decisions" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-Air%20University-00f7ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00f7ff&height=140&section=header"/>
 
 ---
 
-# 🧠 About Me
+# 🧬 [PROFILE CORE]
 
-<p align="center">
+<table>
+<tr>
+<td width="200">
 
-🎓 **Data Science Undergraduate @ Air University**  
-🏆 **AIRVIZ 2025 National Runner-up**  
-🚀 **Buildables Fellowship — Top Fellow**
+<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius:50%;">
 
-I specialize in transforming raw data into **strategic insights**,  
-building predictive models, and crafting dashboards that  
-**drive real-world decision-making.**
+</td>
 
-</p>
+<td>
+
+**Name:** Ayesha Saleh  
+**Role:** Data Science Undergraduate  
+**Institution:** Air University  
+**Focus:** AI • Machine Learning • Business Intelligence  
+**Status:** Open to Work  
+
+**Mission:**  
+Transform complex datasets into **actionable intelligence**.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 [ACHIEVEMENT MATRIX]
+
+| 🏅 Achievement | 🧠 Domain | 📍 Status |
+|----------------|-----------|-----------|
+| AIRVIZ 2025 National Runner-up | Data Visualization | Completed |
+| Buildables Fellowship — Top Fellow | SQL & Analytics | Completed |
+| Elevvo Pathways Internship | Business Intelligence | Completed |
+| DataCamp Certifications | AI & Data Science | Completed |
+
+---
+
+# 🧠 [PROFESSIONAL PROTOCOLS]
 
 ```python
 class AyeshaSaleh:
 
-    def __init__(self):
+    def initialize(self):
 
-        self.role = "Data Scientist in Progress"
+        self.role = "Data Scientist"
 
-        self.focus = [
+        self.capabilities = [
             "Machine Learning",
-            "Business Intelligence",
-            "Analytics",
-            "Data Visualization"
+            "Predictive Analytics",
+            "Dashboard Engineering",
+            "Data Modeling",
+            "Statistical Analysis"
         ]
 
-        self.mission = "Turning data into decisions"
+        self.objective = "Turn data into strategic insights"
 ```
 
 ---
 
-# 📊 GitHub Intelligence
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 [PROJECT DEPLOYMENTS]
 
 ## 📈 Pakistan’s Economic Pulse (2016–2025)
 
-🔹 SARIMAX Forecasting Models  
-🔹 Climate Impact Modeling ("Heat Tax")  
-🔹 Power BI Dashboards  
-🔹 Interactive Web Application  
+```
+STATUS: ACTIVE
+TYPE: Forecasting Intelligence System
+
+MODULES:
+✔ SARIMAX Forecasting  
+✔ Climate Impact Analysis  
+✔ Power BI Dashboards  
+✔ Web Visualization
+```
 
 🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025  
 
 ---
 
-## 🏔️ TOURISTA — Travel Management System
+## 🏔️ TOURISTA — Travel System
 
-🔹 React.js Frontend  
-🔹 C++ Backend  
-🔹 BST & Stack Optimization  
-🔹 Efficient User Navigation  
+```
+STATUS: DEPLOYED
+TYPE: Full Stack System
+
+TECH STACK:
+✔ React.js
+✔ C++ Backend
+✔ Data Structures Optimization
+✔ High-speed Navigation
+```
 
 🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System  
 
@@ -91,90 +104,116 @@ class AyeshaSaleh:
 
 ## 📚 Library Management System
 
-🔹 C# WPF Desktop System  
-🔹 MySQL Database  
-🔹 Automated Fine Tracking  
-🔹 Full Relational Schema  
+```
+STATUS: COMPLETED
+TYPE: Desktop Application
+
+MODULES:
+✔ C# WPF Interface
+✔ MySQL Database
+✔ Fine Tracking Engine
+✔ Relational Design
+```
 
 🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project  
 
 ---
 
-# 🏆 Experience & Internship
+# ⚙️ [TECH ARSENAL]
 
-## 🏆 Buildables Fellowship — Top Fellow
-
-✔ SQL Analytics Hub  
-✔ Advanced T-SQL  
-✔ Real Estate Dataset Analysis (2.2M+ records)  
-✔ KPI Dashboards  
-✔ Automated Reporting Systems  
-
----
-
-## 🎓 Internship — Elevvo Pathways
-
-✔ Power BI Dashboard Development  
-✔ RFM Customer Segmentation  
-✔ API-Based Web Scraping  
-✔ Automated Data Workflows  
+| CORE SYSTEMS | ML ENGINES | DATA PROCESSING | AUTOMATION |
+|---------------|-------------|----------------|-------------|
+| Python | Scikit-Learn | Pandas | Selenium |
+| SQL | Statistical Models | NumPy | BeautifulSoup |
+| R | ML Pipelines | Matplotlib | Requests |
+| C# | AI Models | Seaborn | ETL Pipelines |
 
 ---
 
-# ⚒️ Technical Skillset
+# 🧰 [TECHNOLOGY STACK]
 
-| **Category** | **Skills** |
-|-------------|------------|
-| **Programming Languages** | Python, SQL, R, DAX, C# |
-| **Frameworks & Libraries** | Scikit-Learn, Pandas, Requests, BeautifulSoup, Selenium, Matplotlib, Seaborn, .NET, React.js |
-| **Technologies & Tools** | Microsoft Excel, Power BI, Microsoft Access, WPF, SSMS |
-| **Core Concepts** | Machine Learning, Business Intelligence (BI), Data Cleaning, EDA, Data Visualization, Dashboarding, ETL, Data Modeling, Statistical Analysis |
-| **Soft Skills** | Problem Solving, Leadership, Communication, Teamwork, Critical Thinking, Time Management, Interpersonal Skills |
+| Category | Technologies |
+|----------|--------------|
+| Programming Languages | Python, SQL, R, DAX, C# |
+| Frameworks | .NET, React.js |
+| Visualization | Power BI, Excel |
+| Databases | MySQL, SQL Server |
+| Interfaces | WPF, SSMS |
+| Web Tools | Requests, Selenium |
 
 ---
 
-# 📜 Certifications
+# 📊 [CORE CAPABILITIES]
 
-## 🎓 DataCamp
+| Domain | Skills |
+|--------|-------|
+| Machine Learning | Model Training, Prediction |
+| Business Intelligence | Dashboard Design |
+| Data Cleaning | Transformation Pipelines |
+| EDA | Pattern Discovery |
+| Data Modeling | Schema Design |
+| Statistical Analysis | Hypothesis Testing |
+| Data Storytelling | Insight Communication |
 
-✔ Data Literacy Certification  
-✔ AI Fundamentals Certification  
+---
+
+# 🎯 [COMMAND & CONTROL]
+
+**Leadership Experience**
+
+```
+ROLE: Buildables Fellow
+MISSION: Develop scalable analytics systems
+
+TASKS:
+✔ SQL Optimization
+✔ Dashboard Development
+✔ Data Pipeline Engineering
+✔ Insight Reporting
+```
+
+---
+
+# 📜 [CERTIFICATION LOG]
+
+## DataCamp
+
+✔ Data Literacy  
+✔ AI Fundamentals  
 ✔ Data Analyst in Power BI  
-✔ Exploratory Data Analysis in Python  
+✔ Exploratory Data Analysis  
 
 ---
 
-## 💼 Forage Job Simulations
+## Forage
 
 ✔ British Airways — Data Science  
 ✔ Commonwealth Bank — Data Science  
 
 ---
 
-# 🤝 Let's Connect
+# 📡 [NETWORK LINKS]
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayesha-s-8ab900318">
-<img src="https://img.shields.io/badge/LinkedIn-Ayesha-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00f7ff?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:official.ayesha10@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-ff00ff?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/AyeshaSaleh?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Repositories-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/AyeshaSaleh">
+<img src="https://img.shields.io/badge/GitHub-Repositories-00ff88?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+# 🛰️ [MISSION STATEMENT]
 
-⭐ **"Transforming Data into Decisions"** ⭐  
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f2027&height=140&section=footer"/>
+```
+"Transforming Data into Decisions"
+```
