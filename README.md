@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I am a **Data Science undergraduate at Air University** and a **Business Intelligence Specialist** passionate about transforming data into impactful decisions.
+I am a **Data Science undergraduate** at **Air University** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
 
 ---
 
@@ -30,7 +30,7 @@ I am a **Data Science undergraduate at Air University** and a **Business Intelli
 ## 🚀 Featured Projects
 
 ### 📈 Pakistan’s Economic Pulse (2016–2025)
-Python | SARIMAX | Power BI  
+**Tools:** Python | SARIMAX | Power BI  
 - Forecasted economic trends  
 - Climate impact analysis  
 - Interactive dashboards  
@@ -40,7 +40,7 @@ Python | SARIMAX | Power BI
 ---
 
 ### 🏔️ TOURISTA — Travel System
-React | C++ | Data Structures  
+**Tools:** React | C++ | Data Structures  
 - Optimized travel workflow system  
 - BST + stack-based design  
 
@@ -49,7 +49,7 @@ React | C++ | Data Structures
 ---
 
 ### 📚 Library Management System
-C# | WPF | MySQL  
+**Tools:** C# | WPF | MySQL  
 - Automated library system  
 - Fine calculation system  
 - Database design  
@@ -89,22 +89,32 @@ C# | WPF | MySQL
 ## 🏆 Experience
 
 ### Buildables Fellowship — Top Fellow
-- Advanced SQL analytics  
-- Dashboard automation  
-- Reporting systems  
+- Developed advanced SQL analytics solutions  
+- Implemented stored procedures and window functions  
+- Built executive dashboards  
+- Automated reporting workflows
 
 ### Elevvo Pathways — Data & BI Intern
-- Power BI dashboards  
-- RFM segmentation  
-- Data scraping & pipelines  
+- Developed Power BI dashboards  
+- Performed RFM customer segmentation  
+- Implemented API-based data scraping  
+- Built automated data pipelines
 
 ---
 
 ## 📜 Certifications
+### DataCamp
 
-- DataCamp: Data Literacy, AI, Power BI, EDA  
-- Forage: British Airways, Commonwealth Bank, Tata Analytics  
+- Data Literacy Certification  
+- AI Fundamentals Certification  
+- Data Analyst in Power BI  
+- Exploratory Data Analysis in Python  
 
+### Forage
+
+- British Airways — Data Science Job Simulation  
+- Commonwealth Bank — Introduction to Data Science Job Simulation  
+- Tata — Data	Visualisation:	Empowering	Business with	Effective	Insights
 ---
 
 ## 🌐 Connect With Me
