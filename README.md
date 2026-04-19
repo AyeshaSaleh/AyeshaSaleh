@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AIRVIZ%202025-National%20Runner%20Up-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Buildables-Top%20Fellow-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BI-Specialist-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-AI%20%26%20ML-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business-Intelligence-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?style=for-the-badge"/>
 </p>
+
 
 ---
 
