@@ -57,7 +57,7 @@ class AyeshaSaleh:
 
 ---
 
-### 🏔️ TOURISTA — Travel Management System
+### 🏔️ TOURISTA: Travel Management System
 
 * **React.js + C++ backend**
 * Optimized with **BSTs & Stacks**
