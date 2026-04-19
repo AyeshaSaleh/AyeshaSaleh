@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I am a **Data Science undergraduate** at **Air University, Islamabad** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
+I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
 
 ---
 
