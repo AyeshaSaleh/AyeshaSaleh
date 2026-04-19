@@ -1,102 +1,99 @@
 <h1 align="center">👋 Hi, I'm Ayesha Saleh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=DATA+SCIENTIST+%7C+BI+SPECIALIST;AI+%7C+Machine+Learning+%7C+Analytics;AIRVIZ+2025+National+Runner-up;Buildables+Top+Fellow;Turning+Data+Into+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Data+Science+Undergraduate;AI+%7C+Machine+Learning+%7C+Business+Intelligence;AIRVIZ+2025+National+Runner-up;Buildables+Top+Fellow;Turning+Data+into+Decisions" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=160&section=header&text=Ayesha%20Saleh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-# 🧬 [PROFILE CORE]
-
-<table>
-<tr>
-<td width="200">
-
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius:50%;">
-
-</td>
-
-<td>
-
-**Name:** Ayesha Saleh  
-**Role:** Data Science Undergraduate  
-**Institution:** Air University  
-**Focus:** AI • Machine Learning • Business Intelligence  
-**Status:** Open to Work  
-
-**Mission:**  
-Transform complex datasets into **actionable intelligence**.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 [ACHIEVEMENT MATRIX]
-
-| 🏅 Achievement | 🧠 Domain | 📍 Status |
-|----------------|-----------|-----------|
-| AIRVIZ 2025 National Runner-up | Data Visualization | Completed |
-| Buildables Fellowship — Top Fellow | SQL & Analytics | Completed |
-| Elevvo Pathways Internship | Business Intelligence | Completed |
-| DataCamp Certifications | AI & Data Science | Completed |
-
----
-
-# 🧠 [PROFESSIONAL PROTOCOLS]
+# 🧠 About Me
 
 ```python
 class AyeshaSaleh:
 
-    def initialize(self):
+    def __init__(self):
 
-        self.role = "Data Scientist"
+        self.role = "Data Science Undergraduate"
 
-        self.capabilities = [
-            "Machine Learning",
-            "Predictive Analytics",
-            "Dashboard Engineering",
-            "Data Modeling",
-            "Statistical Analysis"
+        self.honors = [
+            "AIRVIZ 2025 National Runner-up",
+            "Buildables Top Fellow"
         ]
 
-        self.objective = "Turn data into strategic insights"
+        self.specialization = [
+            "Machine Learning",
+            "Business Intelligence",
+            "Analytics",
+            "Data Visualization"
+        ]
+
+        self.mission = "Turning data into decisions"
 ```
 
 ---
 
-# 🚀 [PROJECT DEPLOYMENTS]
+# 🏆 Achievements
+
+<p align="center">
+
+🏆 AIRVIZ 2025 National Runner-up  
+🚀 Buildables Fellowship — Top Fellow  
+🎓 Elevvo Pathways Internship  
+
+</p>
+
+---
+
+# 📊 Live GitHub Stats (Moving)
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake (LIVE Animation)
+
+<p align="center">
+
+<img src="https://github.com/AyeshaSaleh/AyeshaSaleh/blob/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 📈 Pakistan’s Economic Pulse (2016–2025)
 
-```
-STATUS: ACTIVE
-TYPE: Forecasting Intelligence System
-
-MODULES:
-✔ SARIMAX Forecasting  
-✔ Climate Impact Analysis  
-✔ Power BI Dashboards  
-✔ Web Visualization
-```
+🔹 SARIMAX Forecasting  
+🔹 Climate Impact Modeling  
+🔹 Power BI Dashboards  
+🔹 Web Visualization  
 
 🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025  
 
 ---
 
-## 🏔️ TOURISTA — Travel System
+## 🏔️ TOURISTA — Travel Management System
 
-```
-STATUS: DEPLOYED
-TYPE: Full Stack System
-
-TECH STACK:
-✔ React.js
-✔ C++ Backend
-✔ Data Structures Optimization
-✔ High-speed Navigation
-```
+🔹 React.js  
+🔹 C++ Backend  
+🔹 Data Structures Optimization  
 
 🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System  
 
@@ -104,116 +101,72 @@ TECH STACK:
 
 ## 📚 Library Management System
 
-```
-STATUS: COMPLETED
-TYPE: Desktop Application
-
-MODULES:
-✔ C# WPF Interface
-✔ MySQL Database
-✔ Fine Tracking Engine
-✔ Relational Design
-```
+🔹 C# WPF  
+🔹 MySQL Database  
+🔹 Automated Fine System  
 
 🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project  
 
 ---
 
-# ⚙️ [TECH ARSENAL]
+# ⚒️ Tech Stack (Animated Icons)
 
-| CORE SYSTEMS | ML ENGINES | DATA PROCESSING | AUTOMATION |
-|---------------|-------------|----------------|-------------|
-| Python | Scikit-Learn | Pandas | Selenium |
-| SQL | Statistical Models | NumPy | BeautifulSoup |
-| R | ML Pipelines | Matplotlib | Requests |
-| C# | AI Models | Seaborn | ETL Pipelines |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,cs,cpp,react,mysql,git,github,sklearn" />
+
+</p>
 
 ---
 
-# 🧰 [TECHNOLOGY STACK]
+# 📊 Technical Skills
 
-| Category | Technologies |
-|----------|--------------|
+| Category | Skills |
+|----------|--------|
 | Programming Languages | Python, SQL, R, DAX, C# |
-| Frameworks | .NET, React.js |
-| Visualization | Power BI, Excel |
-| Databases | MySQL, SQL Server |
-| Interfaces | WPF, SSMS |
-| Web Tools | Requests, Selenium |
+| Frameworks & Libraries | Scikit-Learn, Pandas, Requests, BeautifulSoup, Selenium, Matplotlib, Seaborn, .NET, React.js |
+| Technologies & Tools | Microsoft Excel, Power BI, Microsoft Access, WPF, SSMS |
+| Core Concepts | Machine Learning, BI, Data Cleaning, EDA, Dashboarding, ETL, Data Modeling, Statistical Analysis |
+| Soft Skills | Leadership, Communication, Problem Solving, Teamwork, Critical Thinking |
 
 ---
 
-# 📊 [CORE CAPABILITIES]
+# 📜 Certifications
 
-| Domain | Skills |
-|--------|-------|
-| Machine Learning | Model Training, Prediction |
-| Business Intelligence | Dashboard Design |
-| Data Cleaning | Transformation Pipelines |
-| EDA | Pattern Discovery |
-| Data Modeling | Schema Design |
-| Statistical Analysis | Hypothesis Testing |
-| Data Storytelling | Insight Communication |
-
----
-
-# 🎯 [COMMAND & CONTROL]
-
-**Leadership Experience**
-
-```
-ROLE: Buildables Fellow
-MISSION: Develop scalable analytics systems
-
-TASKS:
-✔ SQL Optimization
-✔ Dashboard Development
-✔ Data Pipeline Engineering
-✔ Insight Reporting
-```
-
----
-
-# 📜 [CERTIFICATION LOG]
-
-## DataCamp
-
+🎓 DataCamp  
 ✔ Data Literacy  
 ✔ AI Fundamentals  
-✔ Data Analyst in Power BI  
-✔ Exploratory Data Analysis  
+✔ Power BI Analyst  
+✔ EDA in Python  
 
+💼 Forage  
+✔ British Airways — Data Science Job Simulation
+✔ Commonwealth Bank — Introduction to Data Science Job Simulation
+✔ Tata — Data	Visualisation:	Empowering	Business with	Effective	Insights 
 ---
 
-## Forage
-
-✔ British Airways — Data Science  
-✔ Commonwealth Bank — Data Science  
-
----
-
-# 📡 [NETWORK LINKS]
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayesha-s-8ab900318">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00f7ff?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ayesha-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:official.ayesha10@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-ff00ff?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/AyeshaSaleh">
-<img src="https://img.shields.io/badge/GitHub-Repositories-00ff88?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 🛰️ [MISSION STATEMENT]
+<p align="center">
 
-```
-"Transforming Data into Decisions"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:36BCF7&height=150&section=footer"/>
+
+</p>
