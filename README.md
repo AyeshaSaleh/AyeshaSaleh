@@ -66,7 +66,7 @@ class AyeshaSaleh:
 
 ---
 
-### 📚 LMS DBMS System
+### 📚 Library Management System
 
 * Built using **C# (WPF) + MySQL**
 * Automated fine tracking system
