@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ayesha Saleh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;Business+Intelligence+Specialist;AIRVIZ+2025+National+Runner-Up+🥈;Buildables+Top+Fellow+🏆;Machine+Learning+%7C+Data+Analytics+%7C+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;AIRVIZ+2025+National+Runner-Up+🥈;Buildables+Top+Fellow+🏆;Machine+Learning+%7C+Data+Analytics+%7C+BI" />
 </p>
 
 <p align="center">
