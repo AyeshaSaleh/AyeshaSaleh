@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Data%20Science%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=180&section=header&text=Ayesha%20Saleh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Business+Intelligence+Specialist;Machine+Learning+Enthusiast;Turning+Data+into+Decisions" />
 
@@ -23,9 +23,9 @@
 
 ---
 
-<!-- ================= GRAPH ================= -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -35,9 +35,9 @@
 
 ---
 
-<!-- ================= MAIN CONTENT ================= -->
+<!-- ================= ABOUT ================= -->
 
-<h1 align="center">👋 Hi, I am Ayesha Saleh</h1>
+## 👋 Hi, I am Ayesha Saleh
 
 <p align="center">
 <strong>Data Science Undergraduate | Business Intelligence Specialist</strong><br>
@@ -152,8 +152,6 @@ through predictive modeling, dashboard design, and statistical analysis.
 - Tata — Data Visualisation: Empowering Business with Effective Insights  
 
 ---
-
-<!-- ================= CONNECT ================= -->
 
 ## 🔗 Connect With Me
 
