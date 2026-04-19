@@ -23,9 +23,6 @@ I am a **Data Science undergraduate at Air University** and a **Business Intelli
 <p align="center">
   <img src="https://img.shields.io/badge/AIRVIZ%202025-National%20Runner--Up-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Buildables-Top%20Fellow-gold?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Elevvo-Data%20Intern-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DataCamp-Certified-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Forage-Simulations-purple?style=for-the-badge"/>
 </p>
 
 ---
