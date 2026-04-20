@@ -76,12 +76,9 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
----
-
-## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaSaleh&theme=react-dark&hide_border=true&height=200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaSaleh&theme=react-dark&hide_border=true&height=100"/>
 </p>
 
 ---
