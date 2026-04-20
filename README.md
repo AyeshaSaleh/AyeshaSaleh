@@ -133,7 +133,6 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
   <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
 </a>
 </p>
----
 
 <p align="center">
 <strong>🚀 Turning Data into Decisions | Building Intelligence with Impact</strong>
