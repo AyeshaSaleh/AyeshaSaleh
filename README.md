@@ -65,7 +65,7 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 | 💻 Programming | Python • SQL • R • C# • DAX |
 | 📊 BI Tools | Power BI • Excel • SSMS • MS Access |
 | 🤖 ML & Data Science | Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn |
-| 🌐 Web & Automation | React.js • .NET • Selenium • BeautifulSoup |
+| 🌐 Web & Automation | React.js • .NET • Selenium • BeautifulSoup • Streamlit • Flask|
 
 ---
 
