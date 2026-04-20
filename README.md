@@ -129,8 +129,10 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 <a href="https://github.com/AyeshaSaleh">
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.kaggle.com/ayeshasaleh">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
 </p>
-
 ---
 
 <p align="center">
