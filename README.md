@@ -9,7 +9,7 @@
 <table width="100%" align="center">
 <tr>
 <td width="100%">
-<h3 align="center">📊 Executive Summary</h3>
+<h3 align="center">📊 About Me</h3>
 
 > **Role:** Data Science Undergraduate & BI Specialist
 > **Location:** Air University, Islamabad
@@ -68,7 +68,7 @@
 
 <table width="100%">
   <tr>
-    <th colspan="2"><h3>📈 Key Performance Indicators (Projects)</h3></th>
+    <th colspan="2"><h3>📈 Featured Projects</h3></th>
   </tr>
   <tr>
     <td width="50%" valign="top">
