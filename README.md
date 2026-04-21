@@ -1,135 +1,156 @@
-````markdown
-```bash
-> boot ayesha.saleh
-
-Initializing profile...
-Loading modules...
-Access granted.
-
------------------------------------------
-USER:        Ayesha Saleh
-ROLE:        Data Science Undergraduate
-SPECIALTY:   Machine Learning | BI Systems
-STATUS:      ACTIVE
------------------------------------------
-````
-
----
-
-```bash
-> describe --core
-```
-
-I build systems that transform raw data into decision intelligence.
-
-Pipeline:
-[ Data ] → [ Processing ] → [ Modeling ] → [ Insight ] → [ Action ]
-
-Focus Areas:
-
-* Time Series Forecasting (SARIMAX, Prophet)
-* Machine Learning Optimization
-* Business Intelligence Systems
-* Data Pipeline Automation
-
----
-
-```bash
-> load --projects
-```
-
-[1] Pakistan Economic Pulse
-→ Forecasting engine for national indicators
-→ Climate + economic signal modeling
-→ Power BI dashboards
-→ https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025
-
-[2] TOURISTA
-→ Travel optimization system
-→ BST + stack-based architecture
-→ Efficient route handling
-→ https://github.com/AyeshaSaleh/Tourism-Travel-Management-System
-
-[3] Library Management System
-→ Database-driven system (C# + MySQL)
-→ Fine calculation engine
-→ WPF-based UI
-→ https://github.com/AyeshaSaleh/LMS-DBMS-Project
-
----
-
-```bash
-> inspect --toolchain
-```
-
-Languages:
-Python | SQL | R | C#
-
-Data Stack:
-Pandas | NumPy | Scikit-Learn
-
-BI Layer:
-Power BI | Excel | DAX
-
-Development:
-React | .NET | Flask
-
-Automation:
-Selenium | BeautifulSoup | Streamlit
-
----
-
-```bash
-> fetch --experience
-```
-
-Buildables Fellowship (Top Fellow)
-→ SQL analytics + dashboards + automation
-
-Elevvo Pathways (Data Analytics Intern)
-→ Power BI + RFM segmentation + pipelines
-
----
-
-```bash
-> verify --achievements
-```
-
-AIRVIZ 2025  → National Runner-Up
-Buildables   → Top Fellow
-
----
-
-```bash
-> metrics --github
-```
+```markdown
+<h1 align="center">📊 Ayesha Saleh — Data Dashboard</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=dark&hide_border=true"/>
+  <strong>Data Science Undergraduate • Business Intelligence • Machine Learning</strong>
 </p>
 
 ---
 
-```bash
-> connect --links
-```
+## 📌 SYSTEM OVERVIEW
 
-LinkedIn: https://www.linkedin.com/in/ayesha-s-8ab900318
-GitHub:   https://github.com/AyeshaSaleh
-Kaggle:   https://www.kaggle.com/ayeshasaleh
-Email:    [official.ayesha10@gmail.com](mailto:official.ayesha10@gmail.com)
+| Metric | Value |
+|-------|------|
+| 🎓 Education | Air University, Islamabad |
+| 🧠 Focus | Data Science + Business Intelligence |
+| ⚙️ Core Work | Forecasting • Analytics • Dashboards |
+| 🚀 Status | Building real-world data systems |
 
 ---
 
-```bash
-> exit
+## 📊 CURRENT OPERATIONS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 Active Workstreams
+- Time Series Forecasting (SARIMAX, Prophet)  
+- Machine Learning Optimization  
+- Data Pipeline Automation  
+- Power BI Dashboards  
+
+</td>
+
+<td width="50%">
+
+### 📈 Data Pipeline
 ```
 
-Session terminated.
-
-> SYSTEM NOTE:
-> Turning data into decisions.
+Raw Data → Processing → Modeling → Insights → Decisions
 
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 PROJECT DASHBOARD
+
+<table>
+<tr>
+<td width="50%">
+
+### 📈 Pakistan Economic Pulse
+**Stack:** Python • SARIMAX • Power BI  
+
+- Forecasted economic indicators  
+- Climate impact analysis  
+- Interactive dashboards  
+
+🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025  
+
+</td>
+
+<td width="50%">
+
+### 🏔️ TOURISTA
+**Stack:** React • C++ • Data Structures  
+
+- Travel optimization system  
+- BST + stack-based logic  
+- Efficient routing  
+
+🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library Management System
+**Stack:** C# • WPF • MySQL  
+
+- Automated library workflows  
+- Fine calculation system  
+- Structured database design  
+
+🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project  
+
+</td>
+
+<td width="50%">
+
+### 📊 System Note
+This dashboard represents active data systems,  
+not static projects.
+
+Each build focuses on:
+- Real-world data problems  
+- Scalable logic  
+- Decision-making impact  
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚒️ TECH STACK MATRIX
+
+| Layer | Tools |
+|------|------|
+| 💻 Languages | Python • SQL • R • C# |
+| 📊 Analytics | Pandas • NumPy • Scikit-Learn |
+| 📈 BI Layer | Power BI • Excel • DAX • SSMS |
+| 🌐 Development | React • .NET • Flask |
+| ⚙️ Automation | Selenium • BeautifulSoup • Streamlit |
+
+---
+
+## 📡 EXPERIENCE SIGNALS
+
+| Role | Contribution |
+|-----|-------------|
+| 🏆 Buildables Fellow | SQL analytics • dashboards • automation |
+| 📊 Data Analytics Intern | Power BI • RFM segmentation • pipelines |
+
+---
+
+## 🏅 PERFORMANCE INDICATORS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=default"/>
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ayesha-s-8ab900318">LinkedIn</a> •
+<a href="https://github.com/AyeshaSaleh">GitHub</a> •
+<a href="https://www.kaggle.com/ayeshasaleh">Kaggle</a> •
+<a href="mailto:official.ayesha10@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+<strong>📊 Designing systems that turn data into decisions.</strong>
+</p>
 ```
