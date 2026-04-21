@@ -1,93 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:20BEFF&height=250&section=header&text=Ayesha%20Saleh&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=250&section=header&text=Ayesha%20Saleh&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=00FF00" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;AIRVIZ+2025+National+Runner-Up+🥈;Buildables+Top+Fellow+🏆;Business+Intelligence+Specialist;Machine+Learning+%7C+Data+Analytics+%7C+BI" />
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ayesha-s-8ab900318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:official.ayesha10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.kaggle.com/ayeshasaleh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-    <a href="https://github.com/AyeshaSaleh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Data+Science+Undergraduate;AIRVIZ+2025+National+Runner-Up+🥈;Buildables+Top+Fellow+🏆;Business+Intelligence+Specialist;Machine+Learning+%7C+Data+Analytics+%7C+BI" />
 </div>
 
 ---
 
-<table width="100%">
+<table width="100%" style="border: none;">
 <tr>
 <td width="60%">
 
-## 👩‍💻 About Me
-I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **Business Intelligence Specialist**. I specialize in **data analytics**, **predictive modeling**, and building **insight-driven** decision systems that turn raw data into strategic assets.
+## 🧠 About Me
 
-- 🔭 I’m currently working on advanced **Machine Learning** models and **Interactive Dashboards**.
-- 🌱 I’m currently learning deeper **Deep Learning** techniques and modern **Data Engineering**.
-- 👯 I’m looking to collaborate on **Data Science, AI, and Analytics** projects.
-- 💬 Ask me about **Python, SQL, Power BI, and Predictive Analytics**.
+I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **Business Intelligence Specialist** specializing in **data analytics**, **predictive modeling**, and **insight-driven** decision systems.
+
+> *Turning Data into Decisions | Building Intelligence with Impact*
 
 </td>
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/7o62n/7o62n/main/assets/coding.gif" width="100%" />
+  <img src="https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif" width="100%" style="border-radius: 10px;" />
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚒️ Technical Skills (Structured)
 
 <div align="center">
-  
-### 🐍 Programming & Scripting
+
+### 💻 Programming
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,cs,cpp&perline=10" />
-  </a>
+<img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/SQL-00FF00?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/R-00FF00?style=for-the-badge&logo=r&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/C%23-00FF00?style=for-the-badge&logo=c-sharp&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/DAX-00FF00?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=000000" />
 </p>
 
-### 📊 Data, AI & BI Tools
+### 📊 BI Tools
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-00FF00?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Excel-00FF00?style=for-the-badge&logo=microsoftexcel&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/SSMS-00FF00?style=for-the-badge&logo=microsoftsqlserver&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Looker_Studio-00FF00?style=for-the-badge&logo=google&logoColor=000000&labelColor=000000" />
+</p>
+
+### 🤖 ML & Data Science
+<p>
+<img src="https://img.shields.io/badge/Pandas-00FF00?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/NumPy-00FF00?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Scikit--Learn-00FF00?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Matplotlib-00FF00?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Seaborn-00FF00?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000" />
 </p>
 
 ### 🌐 Web & Automation
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,dotnet,selenium,flask&perline=10" />
-  </a>
+<img src="https://img.shields.io/badge/React.js-00FF00?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/.NET-00FF00?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Selenium-00FF00?style=for-the-badge&logo=selenium&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/BeautifulSoup-00FF00?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Streamlit-00FF00?style=for-the-badge&logo=streamlit&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Flask-00FF00?style=for-the-badge&logo=flask&logoColor=000000&labelColor=000000" />
 </p>
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Pakistan’s Economic Pulse</h3>
-      <p align="center"><i>Forecasting & Dashboards</i></p>
+      <h3 align="center">📈 Pakistan’s Economic Pulse (2016–2025)</h3>
       <p>Forecasted economic trends and analyzed climate impact with interactive dashboards.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/SARIMAX-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power_BI-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-00FF00?style=flat-square&logo=python&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/SARIMAX-00FF00?style=flat-square&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/Power_BI-00FF00?style=flat-square&logo=powerbi&logoColor=000000&labelColor=000000" />
       </p>
       <p align="center"><a href="https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025"><b>🔗 View Repository</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏔️ TOURISTA</h3>
-      <p align="center"><i>Travel Management System</i></p>
+      <h3 align="center">🏔️ TOURISTA — Travel System</h3>
       <p>Optimized travel workflow system using BST and stack-based data structures.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/C++-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/DSA-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-00FF00?style=flat-square&logo=react&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/C++-00FF00?style=flat-square&logo=c%2B%2B&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/DSA-00FF00?style=flat-square&logoColor=000000&labelColor=000000" />
       </p>
       <p align="center"><a href="https://github.com/AyeshaSaleh/Tourism-Travel-Management-System"><b>🔗 View Repository</b></a></p>
     </td>
@@ -97,9 +98,9 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
       <h3>📚 Library Management System</h3>
       <p>Automated library system with fine calculations and database design.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/WPF-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-00FF00?style=flat-square&logo=c-sharp&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/WPF-00FF00?style=flat-square&logoColor=000000&labelColor=000000" />
+        <img src="https://img.shields.io/badge/MySQL-00FF00?style=flat-square&logo=mysql&logoColor=000000&labelColor=000000" />
       </p>
       <p><a href="https://github.com/AyeshaSaleh/LMS-DBMS-Project"><b>🔗 View Repository</b></a></p>
     </td>
@@ -112,20 +113,19 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 <tr>
 <td width="50%" valign="top">
 
-## 💼 Experience & Achievements
+## 🏆 Experience
 
-**🏆 Buildables Fellowship — Top Fellow**
+**Buildables Fellowship - Top Fellow**
 - Developed advanced SQL analytics solutions
-- Implemented stored procedures & window functions
+- Implemented stored procedures and window functions
 - Built executive dashboards
+- Automated reporting workflows
 
-**💼 Elevvo Pathways — Data Analytics Intern**
+**Elevvo Pathways - Data Analytics Intern**
 - Developed Power BI dashboards
 - Performed RFM customer segmentation
+- Implemented API-based data scraping
 - Built automated data pipelines
-
-**🥈 AIRVIZ 2025 — National Runner-Up**
-- Recognized for outstanding data visualization and analytics capabilities.
 
 </td>
 <td width="50%" valign="top">
@@ -139,9 +139,9 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 - Exploratory Data Analysis in Python
 
 **Forage**
-- British Airways: Data Science Job Simulation
-- Commonwealth Bank: Intro to Data Science
-- Tata: Data Visualisation
+- British Airways - Data Science Job Simulation
+- Commonwealth Bank - Introduction to Data Science Job Simulation
+- Tata - Data Visualisation: Empowering Business with Effective Insights
 
 </td>
 </tr>
@@ -149,18 +149,37 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=hacker&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=hacker&hide_border=true" width="48%" />
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaSaleh&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaSaleh&theme=hacker&hide_border=true" width="100%" />
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ayesha-s-8ab900318">
+  <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000"/>
+</a>
+<a href="mailto:official.ayesha10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/>
+</a>
+<a href="https://github.com/AyeshaSaleh">
+  <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/>
+</a>
+<a href="https://www.kaggle.com/ayeshasaleh">
+  <img src="https://img.shields.io/badge/Kaggle-00FF00?style=for-the-badge&logo=kaggle&logoColor=000000&labelColor=000000"/>
+</a>
+</p>
 
 <p align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:20BEFF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=100&section=footer" width="100%"/>
 </p>
