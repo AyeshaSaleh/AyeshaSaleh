@@ -1,63 +1,55 @@
 ```markdown
-<h1 align="center">📊 Ayesha Saleh — Data Dashboard</h1>
+<h1 align="center">📊 DATA DASHBOARD — Ayesha Saleh</h1>
 
 <p align="center">
-  <strong>Data Science Undergraduate • Business Intelligence • Machine Learning</strong>
+  <strong>Business Intelligence • Data Science • Machine Learning</strong>
 </p>
 
 ---
 
-## 📌 SYSTEM OVERVIEW
+## 🧾 DASHBOARD SUMMARY
 
-| Metric | Value |
-|-------|------|
-| 🎓 Education | Air University, Islamabad |
-| 🧠 Focus | Data Science + Business Intelligence |
-| ⚙️ Core Work | Forecasting • Analytics • Dashboards |
-| 🚀 Status | Building real-world data systems |
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Scientist-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Business%20Intelligence-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Systems-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Pakistan-lightgrey?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 CURRENT OPERATIONS
+## 📊 KPI PANEL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-3+-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20BI-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AIRVIZ-Runner--Up-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Buildables-Top%20Fellow-gold?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔄 DATA PIPELINE VIEW
+
+```
+
+Raw Data → Cleaning → Feature Engineering → Modeling → Visualization → Decisions
+
+```
+
+---
+
+## 📦 PROJECT ANALYTICS
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔄 Active Workstreams
-- Time Series Forecasting (SARIMAX, Prophet)  
-- Machine Learning Optimization  
-- Data Pipeline Automation  
-- Power BI Dashboards  
-
-</td>
-
-<td width="50%">
-
-### 📈 Data Pipeline
-```
-
-Raw Data → Processing → Modeling → Insights → Decisions
-
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 📦 PROJECT DASHBOARD
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 Pakistan Economic Pulse
+### 📈 Economic Pulse System
 **Stack:** Python • SARIMAX • Power BI  
 
 - Forecasted economic indicators  
-- Climate impact analysis  
+- Climate-impact insights  
 - Interactive dashboards  
 
 🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025  
@@ -66,12 +58,12 @@ Raw Data → Processing → Modeling → Insights → Decisions
 
 <td width="50%">
 
-### 🏔️ TOURISTA
-**Stack:** React • C++ • Data Structures  
+### 🏔️ TOURISTA Engine
+**Stack:** React • C++ • DSA  
 
 - Travel optimization system  
-- BST + stack-based logic  
-- Efficient routing  
+- BST + stack architecture  
+- Route efficiency logic  
 
 🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System  
 
@@ -81,12 +73,12 @@ Raw Data → Processing → Modeling → Insights → Decisions
 <tr>
 <td width="50%">
 
-### 📚 Library Management System
+### 📚 Library System
 **Stack:** C# • WPF • MySQL  
 
-- Automated library workflows  
+- Automated workflows  
 - Fine calculation system  
-- Structured database design  
+- Database-driven design  
 
 🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project  
 
@@ -94,14 +86,12 @@ Raw Data → Processing → Modeling → Insights → Decisions
 
 <td width="50%">
 
-### 📊 System Note
-This dashboard represents active data systems,  
-not static projects.
-
-Each build focuses on:
+### 📊 SYSTEM INSIGHT
+This dashboard reflects **active system builds**,  
+focused on:
 - Real-world data problems  
-- Scalable logic  
-- Decision-making impact  
+- Scalable architectures  
+- Decision intelligence  
 
 </td>
 </tr>
@@ -109,37 +99,70 @@ Each build focuses on:
 
 ---
 
-## ⚒️ TECH STACK MATRIX
+## ⚙️ TECH STACK MATRIX
 
-| Layer | Tools |
-|------|------|
-| 💻 Languages | Python • SQL • R • C# |
-| 📊 Analytics | Pandas • NumPy • Scikit-Learn |
-| 📈 BI Layer | Power BI • Excel • DAX • SSMS |
-| 🌐 Development | React • .NET • Flask |
-| ⚙️ Automation | Selenium • BeautifulSoup • Streamlit |
+<table>
+<tr>
+<td>
+
+**Languages**  
+Python • SQL • R • C#  
+
+</td>
+<td>
+
+**Analytics**  
+Pandas • NumPy • Scikit-Learn  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**BI Layer**  
+Power BI • Excel • DAX • SSMS  
+
+</td>
+<td>
+
+**Development**  
+React • .NET • Flask  
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+**Automation**  
+Selenium • BeautifulSoup • Streamlit  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📡 EXPERIENCE SIGNALS
+## 📡 EXPERIENCE DASHBOARD
 
-| Role | Contribution |
-|-----|-------------|
+| Role | Output |
+|-----|--------|
 | 🏆 Buildables Fellow | SQL analytics • dashboards • automation |
-| 📊 Data Analytics Intern | Power BI • RFM segmentation • pipelines |
+| 📊 Data Analytics Intern | BI dashboards • segmentation • pipelines |
 
 ---
 
-## 🏅 PERFORMANCE INDICATORS
+## 📈 LIVE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true&theme=default"/>
-  <img src="https://streak-stats.demolab.com?user=AyeshaSaleh&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaSaleh&show_icons=true"/>
+  <img src="https://streak-stats.demolab.com?user=AyeshaSaleh"/>
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🌐 CONNECT PANEL
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ayesha-s-8ab900318">LinkedIn</a> •
@@ -151,6 +174,6 @@ Each build focuses on:
 ---
 
 <p align="center">
-<strong>📊 Designing systems that turn data into decisions.</strong>
+<strong>📊 Transforming Data → Insight → Decisions</strong>
 </p>
 ```
