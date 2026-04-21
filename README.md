@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:38BDF8&height=220&section=header&text=Ayesha%20Saleh&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
   
@@ -189,4 +188,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:38BDF8&height=100&section=footer" width="100%"/>
 </div>
-```
