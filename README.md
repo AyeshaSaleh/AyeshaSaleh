@@ -31,30 +31,38 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 
 ### 📈 Pakistan’s Economic Pulse (2016–2025)
 **Tools:** Python | SARIMAX | Power BI  
-- Forecasted economic trends  
-- Climate impact analysis  
-- Interactive dashboards  
+- Forecasted economic trends using QIM, Climate, and Trade data.  
+- Visualized multi-sector correlations and industrial growth patterns.  
 
-🔗 https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025  
+🔗 [View Project](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)  
+
+---
+
+### 📊 Business Intelligence Dashboards Portfolio
+**Tools:** Power BI | DAX | SQL | Power Query
+- **Commercial:** HR metrics (attrition), Churn analysis, and retail Store Sales performance.
+- **Specialized:** UB 2021 (Unidentified Bodies) analysis and AI Job market trends.
+- **Competitions:** Team DataSpark global dataset analysis and JP performance tracking.
+
+🔗 [View Project](https://github.com/AyeshaSaleh/BI-Dashboards)
 
 ---
 
 ### 🏔️ TOURISTA — Travel System
 **Tools:** React | C++ | Data Structures  
-- Optimized travel workflow system  
-- BST + stack-based design  
+- Optimized travel workflow system with premium package integrations.  
+- Implemented BST and stack-based design for itinerary management.  
 
-🔗 https://github.com/AyeshaSaleh/Tourism-Travel-Management-System  
+🔗 [View Project](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)  
 
 ---
 
 ### 📚 Library Management System
 **Tools:** C# | WPF | MySQL  
-- Automated library system  
-- Fine calculation system  
-- Database design  
+- Automated system featuring fine calculations and inventory tracking.  
+- Designed robust relational database schema for high-volume transactions.  
 
-🔗 https://github.com/AyeshaSaleh/LMS-DBMS-Project  
+🔗 [View Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)  
 
 ---
 
@@ -76,7 +84,6 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSaleh&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyeshaSaleh&theme=react-dark&hide_border=true&height=100"/>
 </p>
@@ -86,32 +93,25 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 ## 🏆 Experience
 
 ### Buildables Fellowship - Top Fellow
-- Developed advanced SQL analytics solutions  
-- Implemented stored procedures and window functions  
-- Built executive dashboards  
-- Automated reporting workflows
+- Developed advanced SQL analytics solutions and automated reporting.
+- Built executive dashboards and implemented window functions for data mining.
 
 ### Elevvo Pathways - Data Analytics Intern
-- Developed Power BI dashboards  
-- Performed RFM customer segmentation  
-- Implemented API-based data scraping  
-- Built automated data pipelines
+- Developed Power BI dashboards and performed RFM customer segmentation.
+- Built automated data pipelines and implemented API-based web scraping.
 
 ---
 
 ## 📜 Certifications
 ### DataCamp
-
-- Data Literacy Certification  
-- AI Fundamentals Certification  
-- Data Analyst in Power BI  
+- Data Literacy & AI Fundamentals
+- Data Analyst in Power BI
 - Exploratory Data Analysis in Python  
 
 ### Forage
-
 - British Airways - Data Science Job Simulation  
-- Commonwealth Bank - Introduction to Data Science Job Simulation  
-- Tata - Data	Visualisation:	Empowering	Business with	Effective	Insights
+- Tata - Data Visualisation: Empowering Business with Effective Insights
+
 ---
 
 ## 🌐 Connect With Me
