@@ -38,10 +38,10 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 
 ---
 
-### 📊 Business Intelligence Dashboards Portfolio
+### 📊 Business Intelligence Dashboards 
 **Tools:** Power BI | DAX | SQL | Power Query
 - **Corporate & Retail:** HR metrics (attrition), Store Sales analysis, and JP Programme Performance tracking.
-- **Competitions:** **Team DataSpark** — Analyzed the "World Dataset" for a high-stakes data competition.
+- **Competitions:** **Team DataSpark** - Analyzed the "World Dataset" for a high-stakes data competition.
 - **Specialized Analytics:** UB 2021 (Unidentified Bodies) patterns and AI Job market evolution.
 
 🔗 [View Project](https://github.com/AyeshaSaleh/BI-Dashboards)
