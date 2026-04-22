@@ -27,42 +27,40 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-### 📈 Pakistan’s Economic Pulse (2016–2025)
-**Tools:** Python | SARIMAX | Power BI  
-- Forecasted economic trends using QIM, Climate, and Trade data.  
-- Visualized multi-sector correlations and industrial growth patterns.  
-
-🔗 [View Project](https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025)  
-
----
-
-### 📊 Business Intelligence Dashboards 
-**Tools:** Power BI | DAX | SQL | Power Query
-- **Corporate & Retail:** HR metrics (attrition), Store Sales analysis, and JP Programme Performance tracking.
-- **Competitions:** **Team DataSpark** - Analyzed the "World Dataset" for a high-stakes data competition.
-- **Specialized Analytics:** UB 2021 (Unidentified Bodies) patterns and AI Job market evolution.
-
-🔗 [View Project](https://github.com/AyeshaSaleh/BI-Dashboards)
-
----
-
-### 🏔️ TOURISTA — Travel System
-**Tools:** React | C++ | Data Structures  
-- Optimized travel workflow system with premium package integrations.  
-- Implemented BST and stack-based design for itinerary management.  
-
-🔗 [View Project](https://github.com/AyeshaSaleh/Tourism-Travel-Management-System)  
-
----
-
-### 📚 Library Management System
-**Tools:** C# | WPF | MySQL  
-- Automated system featuring fine calculations and inventory tracking.  
-- Designed robust relational database schema for high-volume transactions.  
-
-🔗 [View Project](https://github.com/AyeshaSaleh/LMS-DBMS-Project)  
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 Pakistan’s Economic Pulse</h3>
+      <p>Forecasted economic trends using QIM, Climate, and Trade data. Visualized multi-sector correlations and industrial growth patterns.</p>
+      <p><b>Tools:</b> Python, SARIMAX, Power BI</p>
+      <a href="https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 BI Dashboards Portfolio</h3>
+      <p>Specialized dashboards including HR attrition, Retail sales, and AI job trends. Featuring Team DataSpark competition work.</p>
+      <p><b>Tools:</b> Power BI, DAX, SQL, Power Query</p>
+      <a href="https://github.com/AyeshaSaleh/BI-Dashboards">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏔️ TOURISTA — Travel System</h3>
+      <p>Optimized travel workflow system with premium package integrations and BST-based itinerary management.</p>
+      <p><b>Tools:</b> React, C++, Data Structures</p>
+      <a href="https://github.com/AyeshaSaleh/Tourism-Travel-Management-System">🔗 View Project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Library Management System</h3>
+      <p>Automated management system featuring fine calculations, inventory tracking, and robust relational database design.</p>
+      <p><b>Tools:</b> C#, WPF, MySQL</p>
+      <a href="https://github.com/AyeshaSaleh/LMS-DBMS-Project">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
