@@ -109,7 +109,7 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
 ### Forage
 - British Airways - Data Science Job Simulation  
 - Tata - Data Visualisation: Empowering Business with Effective Insights
-
+- Commonwealth Bank - Introduction	to	Data	Science	Job	Simulation
 ---
 
 ## 🌐 Connect With Me
