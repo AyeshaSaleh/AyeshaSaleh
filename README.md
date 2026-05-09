@@ -37,7 +37,7 @@ I am a **Data Science Undergraduate** at **Air University, Islamabad** and a **B
       <h3>📈 Pakistan’s Economic Pulse</h3>
       <p>Forecasted economic trends using QIM, Climate, and Trade data. Visualized multi-sector correlations and industrial growth patterns.</p>
       <p><b>Tools:</b> Python, SARIMAX, Power BI</p>
-      <a href="https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-2016-2025">🔗 View Project</a>
+      <a href="https://github.com/AyeshaSaleh/Pakistans-Economic-Pulse-DATAFEST">🔗 View Project</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 BI Dashboards Portfolio</h3>
